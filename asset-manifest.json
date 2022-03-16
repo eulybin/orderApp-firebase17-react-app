@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/basicValidation-modalOverlays-react-app/static/css/main.03c01dce.chunk.css",
-    "main.js": "/basicValidation-modalOverlays-react-app/static/js/main.7264387d.chunk.js",
-    "main.js.map": "/basicValidation-modalOverlays-react-app/static/js/main.7264387d.chunk.js.map",
-    "runtime-main.js": "/basicValidation-modalOverlays-react-app/static/js/runtime-main.8e6fc801.js",
-    "runtime-main.js.map": "/basicValidation-modalOverlays-react-app/static/js/runtime-main.8e6fc801.js.map",
-    "static/js/2.7fbdda8b.chunk.js": "/basicValidation-modalOverlays-react-app/static/js/2.7fbdda8b.chunk.js",
-    "static/js/2.7fbdda8b.chunk.js.map": "/basicValidation-modalOverlays-react-app/static/js/2.7fbdda8b.chunk.js.map",
-    "index.html": "/basicValidation-modalOverlays-react-app/index.html",
-    "static/css/main.03c01dce.chunk.css.map": "/basicValidation-modalOverlays-react-app/static/css/main.03c01dce.chunk.css.map",
-    "static/js/2.7fbdda8b.chunk.js.LICENSE.txt": "/basicValidation-modalOverlays-react-app/static/js/2.7fbdda8b.chunk.js.LICENSE.txt",
-    "static/media/meals.2971f633.jpg": "/basicValidation-modalOverlays-react-app/static/media/meals.2971f633.jpg"
+    "main.css": "/orderApp-firebase17-react-app/static/css/main.03c01dce.chunk.css",
+    "main.js": "/orderApp-firebase17-react-app/static/js/main.7264387d.chunk.js",
+    "main.js.map": "/orderApp-firebase17-react-app/static/js/main.7264387d.chunk.js.map",
+    "runtime-main.js": "/orderApp-firebase17-react-app/static/js/runtime-main.af381f7f.js",
+    "runtime-main.js.map": "/orderApp-firebase17-react-app/static/js/runtime-main.af381f7f.js.map",
+    "static/js/2.7fbdda8b.chunk.js": "/orderApp-firebase17-react-app/static/js/2.7fbdda8b.chunk.js",
+    "static/js/2.7fbdda8b.chunk.js.map": "/orderApp-firebase17-react-app/static/js/2.7fbdda8b.chunk.js.map",
+    "index.html": "/orderApp-firebase17-react-app/index.html",
+    "static/css/main.03c01dce.chunk.css.map": "/orderApp-firebase17-react-app/static/css/main.03c01dce.chunk.css.map",
+    "static/js/2.7fbdda8b.chunk.js.LICENSE.txt": "/orderApp-firebase17-react-app/static/js/2.7fbdda8b.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/orderApp-firebase17-react-app/static/media/meals.2971f633.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e6fc801.js",
+    "static/js/runtime-main.af381f7f.js",
     "static/js/2.7fbdda8b.chunk.js",
     "static/css/main.03c01dce.chunk.css",
     "static/js/main.7264387d.chunk.js"
